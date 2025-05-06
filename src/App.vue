@@ -203,7 +203,7 @@
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="grid md:grid-cols-2 gap-12 items-center">
       <!-- Profile Image Column -->
-      <div class="relative group order-last md:order-first">
+      <div class="relative group order-last md:order-first max-w-sm mx-auto">
         <div class="relative rounded-xl overflow-hidden shadow-2xl">
           <img 
             src="https://media-hosting.imagekit.io/a0abce0a05c0457f/profile.jpg?Expires=1840964711&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=A0VUwC0DO0VZyObJTcPgljddeHA3mVDOPGM6nP8p8d1ODCYIcYLeQ~A-Q~nipVMywwNXIZbpTzA-51pPPtid216FCPgAZGpqXYp6OGSLxgkRf4dvlu7Ak1PWZ0Mu0-K6rEMs9jxr83CMPN3jn6fKivH5AcCk9EkzkbRlMDhy6BBxi52CRs4tJQwGdjKqnY5ZwiiX-NvgFMsG7vaYp-Opo5C01m-h3p0gPqpLSP4m~QpzJS9mTJ4q4dKznqKEM78xWah~ouiWzO94SkuoKPhiGpRjIVX89b1yQO80kGhzbHHUftJVYmpQYAd0DIvMmi1osvVWZHK729ItZtT2JpQyUA__" 
@@ -240,7 +240,7 @@
             <svg class="flex-shrink-0 w-5 h-5 text-purple-400 mt-1 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
             </svg>
-            <span class="text-gray-400">Based in Prishtina, Kosovo</span>
+            <span class="text-gray-400">Born in Vaduz, Liechtenstein, I grew up in Kosovo</span>
           </li>
           <li class="flex items-start">
             <svg class="flex-shrink-0 w-5 h-5 text-purple-400 mt-1 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -253,6 +253,20 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
             </svg>
             <span class="text-gray-400">Film & Photography enthusiast</span>
+          </li>
+          <li class="flex items-start">
+            <svg class="flex-shrink-0 w-5 h-5 text-purple-400 mt-1 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+            </svg>
+            <span class="text-gray-400 text-2xl font-semibold">I also did another jobs as developer, I worked in sales remotely, music producer, etc.</span>
+
+            <span class="text-gray-400">developer</span>
+
+            <span class="text-gray-400">sales remotely</span>
+
+            <span class="text-gray-400">music producer</span>
+
+            <span class="text-gray-400">film music producer</span>
           </li>
         </ul>
       </div>
